@@ -1,6 +1,6 @@
 Criado um arquivo no master. 		ok	
 passarei pro ramo teste			ok
-deletarei o arquivo1			ok	s
+deletarei o arquivo1			ok	
 em seguida criarei um no ramo teste com o mesmo nome para dar conflito.
 
 
@@ -9,6 +9,4 @@ em seguida criarei um no ramo teste com o mesmo nome para dar conflito.
 
 
 Segunda etapa lpsalpd
-CAsa
-Sapato 
-coisa
+
